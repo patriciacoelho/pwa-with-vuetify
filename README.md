@@ -45,5 +45,7 @@ npm run lint
 
 ### References
 See [Web App Manifest](https://web.dev/add-manifest/)
+
 See [Vuetify](https://vuetifyjs.com/en/)
+
 See [Vue CLI Configuration Reference](https://cli.vuejs.org/config/)
